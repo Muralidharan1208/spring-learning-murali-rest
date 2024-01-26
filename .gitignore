@@ -25,3 +25,5 @@ replay_pid*
 *.prefs
 .project
 .classpath
+target/classes/**
+target/classes/META-INF/maven/com.example/spring-learning-murali-rest/pom.properties
